@@ -1,0 +1,29 @@
+STREAMLOCK PLUG-IN — PROPRIETARY LICENSE
+Version 1.0 — © 2025 Tejas Bhone. All Rights Reserved.
+
+Permission is NOT granted to any individual, researcher, company, or organization 
+to copy, modify, merge, publish, distribute, sublicense, or sell copies of this 
+software, framework, concept, or any derivative of the StreamLock Plug-in.
+
+No part of the StreamLock Plug-in may be:
+- reused,
+- rewritten,
+- adapted,
+- reverse-engineered,
+- re-implemented,
+- repackaged,
+- integrated,
+- used for model training,
+- or used to create competing technology
+
+without explicit written permission from the owner, Tejas Bhone.
+
+Commercial, academic, and research usage is strictly prohibited unless a formal 
+contractual agreement, signed by both parties, grants written authorization.
+
+Unauthorized use constitutes a violation of intellectual property rights and may 
+result in legal action, financial penalties, and permanent usage bans.
+
+You may view this repository for evaluation purposes only.
+
+All rights reserved under applicable international intellectual property law.
