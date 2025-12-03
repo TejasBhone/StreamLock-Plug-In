@@ -1,0 +1,23 @@
+Copyright © 2025 
+Creator & Owner: Tejas Bhone  
+Project: StreamLock Plug-in — Cross-Model LLM Stability Layer
+
+This project, its structure, logic, sequences, mechanisms, and all underlying 
+concepts are original intellectual property belonging solely to Tejas Bhone.
+
+No other entity may claim ownership, partial ownership, shared ownership, 
+derivative ownership, or adjacent ownership over StreamLock or any of its internal 
+components.
+
+This includes (but is not limited to):
+- Stability routines
+- Anchoring methods
+- Drift-reduction methods
+- Execution patterns
+- Structural scaffolds
+- Multi-model compatibility logic
+
+Any unauthorized replication, reinterpretation, guideline extraction, prompt 
+reconstruction, or algorithmic reproduction is strictly prohibited.
+
+All rights reserved.
